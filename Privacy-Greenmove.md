@@ -2,41 +2,37 @@
 
 ## Introduction and Scope of the Application
 
-Our privacy policy will help you understand what information we collect at Greenmove, how Greenmove uses it, and what choices you have.
-Greenmove built the Greenmove app as a free app, and a custom application developed exclusively for the employees of VINCI Construction - Division Réseaux France, to be deployed on employee phones via the company's Microsoft Intune management portal. This application is not intended for the general public.
+Greenmove is as a free app, and a custom application developed exclusively for the employees of VINCI Construction - Division Réseaux France, to be deployed on employee phones via the company's Microsoft Intune management portal. This application is not intended for the general public.
 
 ## Purpose of the Application
-ou are about to use GreenMove; the exclusive purpose of this application is to measure the carbon impact of your travel in order to improve it and offer you eco-responsible alternatives
+You are about to use GreenMove; the exclusive purpose of this application is to measure the carbon impact of your travel in order to improve it and offer you eco-responsible alternatives
 
 ## Absolute Protection Regarding the Employer
-In strict compliance with the GDPR, GreenMove guarantees a total separation between your usage data and your employer
-Confidentiality of trips: Geolocation data and personal travel data are strictly anonymized
+In strict compliance with the GDPR (General Data Protection Regulation), GreenMove guarantees a total separation between your usage data and your employer :
+- Confidentiality of trips: Geolocation data and personal travel data are strictly anonymized
 They are neither visible nor usable by the employer
 
-Indicative schedules: The work schedules you provide in the application are purely indicative to facilitate trip detection
+- Indicative schedules: The work schedules you provide in the application are purely indicative to facilitate trip detection
 They cannot under any circumstances be used by the employer for any other purpose (e.g., working time surveillance)
 
-Right to disconnect: A "disconnect mode" or "vacation mode" is available at any time to suspend tracking during your personal trips or outside your working hours
+- Right to disconnect: A "disconnect mode" or "vacation mode" is available at any time to suspend tracking during your personal trips or outside your working hours
 
 
 ## Information Collection and Use
 
 To ensure the proper functioning of the service, GreenMove uses and requires access to the following elements, solely within the scope of the application
 
-## Authentication: Access requires your professional email address
+- Authentication: Access requires your professional email address
 
-## Precise location: Allows for the automatic detection of your trips
-- You can choose to allow location "While using the app" or "Always allow" for background tracking This data remains anonymized
+- Precise location: Allows for the automatic detection of your trips, You can choose to allow location "While using the app" or "Always allow" for background tracking This data remains anonymized
 
-## Physical activity (Motion): 
-Used exclusively to distinguish the mode of transport used (walking, cycling, car, etc.)
+- Physical activity (Motion): Used exclusively to distinguish the mode of transport used (walking, cycling, car, etc.)
 
-## Device Information:
-We collect information from your device in some cases. This information is used to provide better service and to prevent fraudulent acts. Additionally, this information will not include data that directly identifies an individual user unless required for service operations.
+- Device Information: We collect information from your device in some cases. This information is used to provide better service and to prevent fraudulent acts. Additionally, this information will not include data that directly identifies an individual user unless required for service operations.
 
-# Vehicle model:
-The information provided regarding your vehicle (model, CO2 emissions) is used to accurately calculate your carbon footprint
-Information such as your name, gender, or photos is not collected by the application
+- Vehicle model: The information provided regarding your vehicle (model, CO2 emissions) is used to accurately calculate your carbon footprint
+
+- Information such as your name, gender, or photos is not collected by the application
 
 ## Service Providers and Third Parties
 The application may integrate with third-party services (such as Outlook or OneDrive) to assist you
