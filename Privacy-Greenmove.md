@@ -34,14 +34,14 @@ To ensure the proper functioning of the service, GreenMove uses and requires acc
 
 - Information such as your name, gender, or photos is not collected by the application
 
-### Chi tiết về việc sử dụng Dữ liệu Vị trí (Location Data Usage)
+### Location Data Usage Details
 
-Để tuân thủ các tiêu chuẩn cao nhất về minh bạch dữ liệu, chúng tôi làm rõ cách thức sử dụng vị trí như sau:
+To comply with the highest standards of data transparency, we clarify our use of location data as follows:
 
-* **Mục đích sử dụng:** Ứng dụng thu thập dữ liệu vị trí để cho phép tính năng tự động phát hiện chuyến đi (Trip Detection) và đo lường khoảng cách di chuyển thực tế. Đây là cơ sở duy nhất để tính toán chính xác lượng phát thải carbon (CO2) cá nhân.
-* **Sử dụng trong nền (Background Location):** Nếu bạn chọn "Always allow", ứng dụng sẽ thu thập tọa độ ngay cả khi ứng dụng đã đóng hoặc không được sử dụng. Điều này đảm bảo quá trình ghi lại hành trình không bị gián đoạn, giúp bạn có cái nhìn toàn diện về tác động môi trường của mình mà không cần thao tác thủ công trước mỗi chuyến đi.
-* **Ví dụ cụ thể:** Khi bạn bắt đầu di chuyển từ văn phòng về nhà bằng xe cá nhân, ứng dụng sẽ ghi nhận sự thay đổi vị trí để xác định loại phương tiện và độ dài quãng đường (ví dụ: 10km đường bộ), từ đó quy đổi ra số kg CO2 tương ứng.
-* **Cam kết bảo mật:** Mọi dữ liệu vị trí thu thập được đều được ẩn danh hóa (anonymized) trước khi lưu trữ và tuyệt đối không được dùng để theo dõi thời gian biểu cá nhân của nhân viên cho mục đích quản lý nhân sự.
+* **Purpose of Use:** The application collects location data to enable automatic Trip Detection and measure actual travel distances. This is the primary basis for accurately calculating your individual carbon footprint (CO2).
+* **Background Location:** If you select "Always allow," the app will collect coordinates even when the app is closed or not in use. This ensures that your journey recording is seamless, providing a comprehensive view of your environmental impact without requiring manual activation before each trip.
+* **Specific Example:** When you start commuting from the office to your home by private vehicle, the app records the change in location to determine the transport mode and distance (e.g., 10km by road), which is then converted into the corresponding kg of CO2.
+* **Privacy Commitment:** All collected location data is strictly anonymized before storage. This data is never used to monitor personal schedules or for any employee surveillance or human resources management purposes.
 
 ## Service Providers and Third Parties
 The application may integrate with third-party services (such as Outlook or OneDrive) to assist you
